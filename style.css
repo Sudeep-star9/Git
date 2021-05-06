@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    background-size: cover;
+}
+.abc{
+    margin-left: 20%;
+}
+.bcd{
+    border: 2px solid rgb(0, 236, 0);
+    margin-right: 800px;
+    border-radius: 10px;
+
+}
+.transparent{
+    background: transparent;
+}

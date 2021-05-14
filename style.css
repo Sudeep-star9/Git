@@ -1,16 +1,13 @@
 body{
-    background-color: black;
+    background-color: rgb(228, 20, 20);
     background-size: cover;
 }
 .abc{
     margin-left: 20%;
 }
-/* .bcd{
-    border: 2px solid rgb(0, 236, 0);
-    margin-right: 800px;
-    border-radius: 10px;
+img{
+    height: 65vh;
+    width: 30%;
 
+    
 }
-.transparent{
-    background: transparent;
-} */

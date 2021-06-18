@@ -41,7 +41,7 @@ tr,td,th{
      margin: auto;
     display: inline;
     display: flex;
-    font-size: 200%;
+    font-size: 100%;
 }
 .java{
     margin-top: 2%;

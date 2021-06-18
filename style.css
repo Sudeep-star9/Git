@@ -31,6 +31,7 @@ tr,td,th{
     color: rgb(255, 20, 20);
 }
 .line1{
+    justify-content: center;
      text-align: center;
      margin: auto;
     width: 100%;
@@ -39,6 +40,7 @@ tr,td,th{
     font-size: 100%;
 }
 .line2{
+    justify-content: center;
      text-align: center;
      margin: auto;
     display: inline;
@@ -55,6 +57,7 @@ tr,td,th{
     color: rgb(255, 20, 20);
 }
 .line3{
+    justify-content: center;
      text-align: center;
     display: flex;
 }

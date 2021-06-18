@@ -39,7 +39,7 @@ tr,td,th{
 .line2{
     display: inline;
     display: flex;
-/*     font-size: 100%; */
+    font-size: 200%;
 }
 .java{
     margin-top: 2%;

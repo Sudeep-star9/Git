@@ -34,12 +34,12 @@ tr,td,th{
     width: 100%;
     display: inline;
     display: flex;
-    font-size: 100%;
+/*     font-size: 100%; */
 }
 .line2{
     display: inline;
     display: flex;
-    font-size: 100%;
+/*     font-size: 100%; */
 }
 .java{
     margin-top: 2%;
